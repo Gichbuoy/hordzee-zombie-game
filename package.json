@@ -1,0 +1,27 @@
+{
+  "name": "backup-game",
+  "version": "1.0.0",
+  "description": "Snowpack & Pixi.js template",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev --polyfill-node",
+    "build": "snowpack build --polyfill-node",
+    "init": "snowpack init"
+  },
+  "keywords": [
+    "snowpack",
+    "pixi.js",
+    "victor",
+    "matter.js"
+  ],
+  "author": "Morgan Page <admin@morganpage.tech> (http://morganpage.tech)",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "dependencies": {
+    "pixi-particles": "4.3.0",
+    "pixi.js": "5.3.12",
+    "victor": "^1.1.0"
+  }
+}

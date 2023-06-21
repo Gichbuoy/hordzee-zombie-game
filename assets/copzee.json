@@ -1,0 +1,105 @@
+{"frames": {
+
+"cop_die_0.png":
+{
+	"frame": {"x":1,"y":68,"w":18,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":18,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_die_1.png":
+{
+	"frame": {"x":1,"y":128,"w":19,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":19,"h":42},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_die_2.png":
+{
+	"frame": {"x":1,"y":179,"w":32,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":32,"h":38},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_die_3.png":
+{
+	"frame": {"x":1,"y":213,"w":38,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":38,"h":42},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_die_4.png":
+{
+	"frame": {"x":1,"y":149,"w":43,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":43,"h":28},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_die_5.png":
+{
+	"frame": {"x":1,"y":1,"w":45,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":35,"w":45,"h":10},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_walk_0.png":
+{
+	"frame": {"x":1,"y":88,"w":18,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":18,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_walk_1.png":
+{
+	"frame": {"x":1,"y":13,"w":16,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":16,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_walk_2.png":
+{
+	"frame": {"x":1,"y":49,"w":17,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":17,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_walk_3.png":
+{
+	"frame": {"x":1,"y":31,"w":16,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":16,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+"cop_walk_4.png":
+{
+	"frame": {"x":1,"y":108,"w":18,"h":45},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":18,"h":45},
+	"sourceSize": {"w":45,"h":45}
+}},
+"animations": {
+	"die": ["cop_die_0.png","cop_die_1.png","cop_die_2.png","cop_die_3.png","cop_die_4.png","cop_die_5.png"],
+	"walk": ["cop_walk_0.png","cop_walk_1.png","cop_walk_2.png","cop_walk_3.png","cop_walk_4.png"],
+	"attack": ["cop_walk_0.png","cop_die_0.png","cop_die_1.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "copzee.png",
+	"format": "RGBA8888",
+	"size": {"w":47,"h":252},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6abf0ed48880b24b8a2473eb5c0a4911:94399175d1637d998bac2722b06f9a61:b8d7ea8189b50ff0cd8ee70e5684e817$"
+}
+}

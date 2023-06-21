@@ -1,0 +1,105 @@
+{"frames": {
+
+"nurse_die_0.png":
+{
+	"frame": {"x":87,"y":81,"w":27,"h":40},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":27,"h":40},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_die_1.png":
+{
+	"frame": {"x":1,"y":78,"w":24,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":6,"w":24,"h":38},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_die_2.png":
+{
+	"frame": {"x":92,"y":28,"w":25,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":25,"h":35},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_die_3.png":
+{
+	"frame": {"x":90,"y":55,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":13,"w":34,"h":24},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_die_4.png":
+{
+	"frame": {"x":92,"y":1,"w":35,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":35,"h":25},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_die_5.png":
+{
+	"frame": {"x":1,"y":1,"w":44,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":33,"w":44,"h":12},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_walk_0.png":
+{
+	"frame": {"x":1,"y":44,"w":32,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":32,"h":41},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_walk_1.png":
+{
+	"frame": {"x":46,"y":34,"w":32,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":3,"w":32,"h":42},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_walk_2.png":
+{
+	"frame": {"x":47,"y":1,"w":31,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":31,"h":43},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_walk_3.png":
+{
+	"frame": {"x":1,"y":15,"w":27,"h":43},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":27,"h":43},
+	"sourceSize": {"w":45,"h":45}
+},
+"nurse_walk_4.png":
+{
+	"frame": {"x":44,"y":68,"w":26,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":26,"h":41},
+	"sourceSize": {"w":45,"h":45}
+}},
+"animations": {
+	"die": ["nurse_die_0.png","nurse_die_1.png","nurse_die_2.png","nurse_die_3.png","nurse_die_4.png","nurse_die_5.png"],
+	"walk": ["nurse_walk_0.png","nurse_walk_1.png","nurse_walk_2.png","nurse_walk_3.png","nurse_walk_4.png"],
+	"attack": ["nurse_walk_0.png","nurse_die_0.png","nurse_die_1.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nursezee.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":109},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5477c88344f79f61b1bf13902eeef26b:b94c25e39f5d6ebc872f8a7c168d3f9a:ec52295ecd9db6997c88ee3c831689af$"
+}
+}

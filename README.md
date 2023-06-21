@@ -16,7 +16,7 @@ Created with CodeSandbox
 
 - Clone the repository or download the game source code.
  
- ### git clone https://github.com/Gichbuoy/hordzee-zombie-game.git
+  git clone https://github.com/Gichbuoy/hordzee-zombie-game.git
 
 - Open the index.html file in a web browser of your choice.
 
@@ -32,11 +32,11 @@ Created with CodeSandbox
 * Ensure that you have [prerequisites such as Node.js or npm] installed on your machine.
 
 * Clone or download the project repository to your local machine. You can use the following command to clone the repository:
-  https://github.com/Gichbuoy/hordzee-zombie-game.git
+  - https://github.com/Gichbuoy/hordzee-zombie-game.git
 * Open a terminal or command prompt and navigate to the project directory:
-  cd hordzee-zombie.git
+  - cd hordzee-zombie.git
 * Run the following command to install the project dependencies:
-  [npm install]
+  - [npm install]
 
 ### Contributing
 Contributions to the game are welcome! If you would like to contribute, please follow these guidelines:

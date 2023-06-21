@@ -43,5 +43,5 @@ Contributions to the game are welcome! If you would like to contribute, please f
 
 ### Acknowledgements
 - The game is developed using JavaScript and HTML5 canvas.
-- Special thanks to Morgan Page for helping me build this game
+- Special thanks to my instructor -Morgan Page- for helping me build this game
 - Enjoy the game and happy zombie hunting!!!

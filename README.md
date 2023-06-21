@@ -1,6 +1,6 @@
 # hordzee-zombie-game
 Created with CodeSandbox
-This is a zombie shooter game created using JavaScript
+- This is a 2D zombie shooter game created using JavaScript
 
 - This game includes:
   * Animations
@@ -12,17 +12,19 @@ This is a zombie shooter game created using JavaScript
   * Collision detection
 
  ## Getting Started
-To run the game locally, follow these steps:
+- To run the game locally, follow these steps:
 
-Clone the repository or download the game source code.
+- Clone the repository or download the game source code.
+ 
  ### git clone https://github.com/Gichbuoy/hordzee-zombie-game.git
-Open the index.html file in a web browser of your choice.
 
-Use the cursor to control the player character.
+- Open the index.html file in a web browser of your choice.
 
-Press the left mouse button to shoot the zombies.
+- Use the cursor to control the player character.
 
-Survive as long as possible, aiming for a high score!
+- Press the left mouse button to shoot the zombies.
+
+- Survive as long as possible, aiming for a high score!
 
 ### Contributing
 Contributions to the game are welcome! If you would like to contribute, please follow these guidelines:
@@ -42,5 +44,4 @@ Contributions to the game are welcome! If you would like to contribute, please f
 ### Acknowledgements
 - The game is developed using JavaScript and HTML5 canvas.
 - Special thanks to Morgan Page for helping me build this game
-
 - Enjoy the game and happy zombie hunting!!!

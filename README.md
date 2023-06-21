@@ -26,6 +26,18 @@ Created with CodeSandbox
 
 - Survive as long as possible, aiming for a high score!
 
+### Installation
+- To get started with the project, follow the steps below to install the necessary dependencies:
+
+* Ensure that you have [prerequisites such as Node.js or npm] installed on your machine.
+
+* Clone or download the project repository to your local machine. You can use the following command to clone the repository:
+  https://github.com/Gichbuoy/hordzee-zombie-game.git
+* Open a terminal or command prompt and navigate to the project directory:
+  cd hordzee-zombie.git
+* Run the following command to install the project dependencies:
+  [npm install]
+
 ### Contributing
 Contributions to the game are welcome! If you would like to contribute, please follow these guidelines:
 
@@ -40,6 +52,9 @@ Contributions to the game are welcome! If you would like to contribute, please f
 * Push your branch to your forked repository.
 
 * Create a pull request with a detailed description of your changes.
+
+### License
+- This game is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ### Acknowledgements
 - The game is developed using JavaScript and HTML5 canvas.

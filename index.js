@@ -7,7 +7,7 @@ import Weather from "./weather.js";
 import GameState from "./game-state.js";
 //import Matter from "matter-js";
 
-const canvasSize = 400;
+const canvasSize = 400; // canvas size of the game
 const canvas = document.getElementById("mycanvas");
 const app = new PIXI.Application({
   view: canvas,

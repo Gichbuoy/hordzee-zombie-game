@@ -12,7 +12,7 @@ Created with CodeSandbox
   * Collision detection
 
  ## Getting Started
-- To run the game locally, follow these steps:
+- To run the game locally, follow the following steps:
 
 - Clone the repository or download the game source code.
  

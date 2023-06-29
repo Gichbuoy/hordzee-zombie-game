@@ -26,7 +26,7 @@ export default class Player {
     this.lastMouseButton = 0;
     this.shooting = new Shooting({ app, player: this }); // creating shooting instance
     //HEALTHBAR
-    this.maxHealth = 100;
+    this.maxHealth = 100; //max health
     this.health = this.maxHealth;
     const margin = 16;
     const barHeight = 8;

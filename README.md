@@ -1,5 +1,5 @@
 # hordzee-zombie-game
-Created with CodeSandbox
+- Created with CodeSandbox.
 - This is a 2D zombie shooter game created using JavaScript
 
 - This game includes:
